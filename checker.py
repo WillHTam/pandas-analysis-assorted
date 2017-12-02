@@ -12,6 +12,9 @@ print('numpy: {}'.format(numpy.__version__))
 # matplotlib
 import matplotlib
 print('matplotlib: {}'.format(matplotlib.__version__))
+# plotly
+import plotly
+print('plotly: {}'.format(plotly.__version__))
 # pandas
 import pandas
 print('pandas: {}'.format(pandas.__version__))
